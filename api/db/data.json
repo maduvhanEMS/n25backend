@@ -1,0 +1,22 @@
+{
+  "facility_name": "Closed Vessel",
+  "test_types": [
+    "Dynamic Vivacity",
+    "Bulk Density",
+    "Burn Time",
+    "Burn Rate",
+    "Physical Dimension"
+  ],
+  "header": ["Lot_name", "Number", "Reference_lot", "Sample", "Cond_Temp"],
+  "Additional": "Amount of grains to be measured.  Whether the requestor would like to attend. Closed vessel volumes.Specific test and shot naming conventions. Special test requests etc. Attach a detailed test plan if the information cannot be captured above.",
+  "safety": [
+    [
+      "Safety",
+      "I am aware of the normal test instructions and facility operating procedures for these tests"
+    ],
+    [
+      "Handling",
+      "The product is safe for handling, conditioning, transport and testing?"
+    ]
+  ]
+}
